@@ -1,0 +1,29 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial;
+}
+
+nav {
+    list-style: none;
+}
+
+h1 {
+    color: black;
+    background-color: white;
+    font-family: georgia;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    text-align: center;
+}
+
+img {
+    padding: 0% 0;
+}
